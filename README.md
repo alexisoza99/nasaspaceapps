@@ -3,7 +3,7 @@
 
 ### Sequias
 
-![El norte del país es el más afectado por las sequías del calentamiento global.](https://github.com/alexisoza99/nasaspaceapps/blob/main/sequia.jpg)
+![El norte del país es el más afectado por las sequías del calentamiento global.](https://github.com/alexisoza99/nasaspaceapps/blob/main/sequia-2.jpg)
 
 ### Inundaciones
 
@@ -21,9 +21,14 @@ La humanidad ha tenido un gran avance tecnológico en las últimas décadas. Sin
 
 ### Derrames de petróleo
 
+![El Golfo de México es el principal afectado por estos derrames.](https://github.com/alexisoza99/nasaspaceapps/blob/main/petroleo.jpg)
+
 ### Uso excesivo de agua 
 
+![La industria y la agricultura son los principales sectores que más consumen agua.](https://github.com/alexisoza99/nasaspaceapps/blob/main/uso_excesivo.jpg)
+
 ### Deforestación 
+![La tala de arboles representa un desequilibrio en el ciclo hídrico del planeta.](https://github.com/alexisoza99/nasaspaceapps/blob/main/deforestacion.jpg)
 
 ### Urbanización descontrolada
 
