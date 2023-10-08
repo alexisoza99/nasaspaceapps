@@ -1,6 +1,6 @@
 # El agua no es para siempre
 Bienvenido a este sitio web dedicado a explorar el apasionante mundo del ciclo del agua y su intrincada relación con el cambio climático.
-![México](https://github.com/alexisoza99/nasaspaceapps/blob/main/temp-mx.html)
+![México](https://github.com/alexisoza99/nasaspaceapps/blob/main/mx-temp.html)
 ## ¿Qué encontrarás aquí?
 En este espacio educativo, nos sumergiremos en el fascinante recorrido del agua a lo largo de nuestro planeta y cómo este recurso es esencial para la vida en la Tierra. Descubriremos cómo el cambio climático está dejando su huella en este proceso vital y, lo más importante, cómo podemos comprenderlo y abordarlo.
 ![El agua es la base fundamental de la vida, no solo los seres humanos dependen de ella sino toda la vida en el planeta tierra.](https://github.com/alexisoza99/nasaspaceapps/blob/main/Solar%20__energy%20saving__service%20provider.jpeg)
