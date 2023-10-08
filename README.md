@@ -1,9 +1,11 @@
 # El agua no es para siempre
-¿Te has preguntado por qué en los últimos años ocurre más seguido esto?
+Have you wondered why natural disasters have been occurring more frequently in recent years?
 
 ### Sequias
 
 ![El norte del país es el más afectado por las sequías del calentamiento global.](https://github.com/alexisoza99/nasaspaceapps/blob/main/sequia-2.jpg)
+
+Droughts have multiple interconnected causes including climate change, population growth, water overexploitation and deforestation. Climate change alters precipitation patterns and makes rainfall unpredictable. Increased population leads to greater consumption, while deforestation decreases the ability of ecosystems to retain water and regulate the hydrological cycle. One of the most worrying factors is the reduction and variation in precipitation. According to data from Conagua, in June 2023 at the national level it rained 61% less compared to the average for the same month from 1991 to 2020. This impacted the country's main dams, which today - in the middle of the rainy season - They are on average at 44.6% of their capacity.
 
 ### Inundaciones
 
