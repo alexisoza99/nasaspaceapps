@@ -46,9 +46,9 @@ Industry and agriculture are the main sectors that consume the most water.
 
 Deforestation represents an imbalance in the planet's freshwater cycle.
 
-### Urbanización descontrolada
+### Urbanization
 
-### Cambios en el uso de la tierra
+### Changes in land use
 
 It is essential to remember that our universe is an interconnected system where every action has consequences. We live in a world of cause and effect, where our decisions and actions directly impact the balance of nature and the quality of life for future generations.
 
@@ -58,6 +58,7 @@ Welcome to this website dedicated to exploring the fascinating world of the wate
 
 ## What will you find here?
 In this educational space, we will delve into the fascinating journey of water throughout our planet and how this resource is essential for life on Earth. We will discover how climate change is leaving its mark on this vital process, and most importantly, how we can understand and address it.
+
 ![El agua es la base fundamental de la vida, no solo los seres humanos dependen de ella sino toda la vida en el planeta tierra.](https://github.com/alexisoza99/nasaspaceapps/blob/main/Solar%20__energy%20saving__service%20provider.jpeg)
 ## NASA Resources
 We collaborate with NASA to utilize cutting-edge satellite data and advanced visualization tools. These data support our narratives and interactive experiences, providing you with a deeper and more accurate insight into the impact of climate change on the water cycle.
