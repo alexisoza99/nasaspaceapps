@@ -56,12 +56,13 @@ Welcome to this website dedicated to exploring the fascinating world of the wate
 
 ![Cambios de temperatura en México de acuerdo a cada mes del año.](https://github.com/alexisoza99/nasaspaceapps/blob/main/MAPA_FINAL_MX_TEMP.gif)
 
-## ¿Qué encontrarás aquí?
-En este espacio educativo, nos sumergiremos en el fascinante recorrido del agua a lo largo de nuestro planeta y cómo este recurso es esencial para la vida en la Tierra. Descubriremos cómo el cambio climático está dejando su huella en este proceso vital y, lo más importante, cómo podemos comprenderlo y abordarlo.
+## What will you find here?
+In this educational space, we will delve into the fascinating journey of water throughout our planet and how this resource is essential for life on Earth. We will discover how climate change is leaving its mark on this vital process, and most importantly, how we can understand and address it.
 ![El agua es la base fundamental de la vida, no solo los seres humanos dependen de ella sino toda la vida en el planeta tierra.](https://github.com/alexisoza99/nasaspaceapps/blob/main/Solar%20__energy%20saving__service%20provider.jpeg)
-## Recursos de la NASA
-Colaboramos con la NASA para utilizar datos de satélites de vanguardia y herramientas avanzadas de visualización. Estos datos respaldan nuestras narrativas y experiencias interactivas, brindándote una visión más profunda y precisa del impacto del cambio climático en el ciclo del agua.
-## Explora, Aprende y Actúa
-Este sitio web no solo te invita a explorar el ciclo del agua y el cambio climático, sino también a aprender cómo puedes tomar medidas para proteger y conservar este recurso vital. Juntos, podemos marcar la diferencia.
+## NASA Resources
+We collaborate with NASA to utilize cutting-edge satellite data and advanced visualization tools. These data support our narratives and interactive experiences, providing you with a deeper and more accurate insight into the impact of climate change on the water cycle.
 
-Únete a nosotros en este emocionante viaje mientras exploramos la belleza y complejidad del agua en nuestro planeta y cómo podemos asegurar que siga fluyendo para las generaciones futuras."
+## Explore, Learn, and Take Action
+This website not only invites you to explore the water cycle and climate change but also to learn how you can take steps to protect and conserve this vital resource. Together, we can make a difference.
+
+Join us on this exciting journey as we explore the beauty and complexity of water on our planet and how we can ensure it continues to flow for future generations.
