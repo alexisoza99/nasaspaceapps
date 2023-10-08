@@ -72,6 +72,8 @@ Welcome to this website dedicated to exploring the fascinating world of the wate
 
 ![Cambios de temperatura en México de acuerdo a cada mes del año.](https://github.com/alexisoza99/nasaspaceapps/blob/main/MAPA_FINAL_MX_TEMP.gif)
 
+![NASA Y DATTOS](https://github.com/alexisoza99/nasaspaceapps/blob/main/Captura%20de%20pantalla%202023-10-08%20a%20la(s)%2016.10.07.png)
+
 ## What will you find here?
 In this educational space, we will delve into the fascinating journey of water throughout our planet and how this resource is essential for life on Earth. We will discover how climate change is leaving its mark on this vital process, and most importantly, how we can understand and address it.
 
