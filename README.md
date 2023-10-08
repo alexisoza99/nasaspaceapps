@@ -3,6 +3,7 @@ Bienvenido a este sitio web dedicado a explorar el apasionante mundo del ciclo d
 ![México](https://github.com/alexisoza99/nasaspaceapps/blob/main/Captura%20de%20pantalla%202023-10-07%20a%20la(s)%2018.01.49.png)
 ## ¿Qué encontrarás aquí?
 En este espacio educativo, nos sumergiremos en el fascinante recorrido del agua a lo largo de nuestro planeta y cómo este recurso es esencial para la vida en la Tierra. Descubriremos cómo el cambio climático está dejando su huella en este proceso vital y, lo más importante, cómo podemos comprenderlo y abordarlo.
+![El agua es la base fundamental de la vida, no solo los seres humanos dependen de ella sino toda la vida en el planeta tierra.] (https://github.com/alexisoza99/nasaspaceapps/blob/main/Solar%20__energy%20saving__service%20provider.jpeg)
 ## Recursos de la NASA
 Colaboramos con la NASA para utilizar datos de satélites de vanguardia y herramientas avanzadas de visualización. Estos datos respaldan nuestras narrativas y experiencias interactivas, brindándote una visión más profunda y precisa del impacto del cambio climático en el ciclo del agua.
 ## Explora, Aprende y Actúa
