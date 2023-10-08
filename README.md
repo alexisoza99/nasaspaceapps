@@ -67,3 +67,23 @@ We collaborate with NASA to utilize cutting-edge satellite data and advanced vis
 This website not only invites you to explore the water cycle and climate change but also to learn how you can take steps to protect and conserve this vital resource. Together, we can make a difference.
 
 Join us on this exciting journey as we explore the beauty and complexity of water on our planet and how we can ensure it continues to flow for future generations.
+
+## WATER CYCLE
+
+### EVAPORATION
+The heat of the Sun causes water to evaporate from the oceans, lakes and streams. Evaporation when liquid water occurs on the surface of the Earth is transformed into water vapor our atmosphere.
+
+### PERSPIRATION
+Water from plants and trees too enters the atmosphere. This is called perspiration.
+
+### CONDENSATION
+Hot water vapor rises through the Earth's atmosphere. As the steam water rises, the fresh air of the atmosphere makes which condenses into liquid water, creating clouds.
+
+### PRECIPITATION
+When a cloud fills with liquid water, it falls from the sky mainly in the form of rain or snow: this is known as precipitation. The rain and the Snow fills the lakes and streams, and the process start again.
+
+### SURFACE RUNOFF
+Surface runoff is nothing more than water. "running" across the surface of the earth. The rain runs down the surface of the earth due to gravity.
+
+### GROUNDWATERS
+Some of the water seeps into the ground as soil moisture or groundwater
