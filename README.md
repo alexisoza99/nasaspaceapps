@@ -3,13 +3,21 @@
 
 ### Sequias
 
+![El norte del país es el más afectado por las sequías del calentamiento global.](https://github.com/alexisoza99/nasaspaceapps/blob/main/sequia.jpg)
+
 ### Inundaciones
 
+![Las inundaciones han aumentado en zonas costeras de México.](https://github.com/alexisoza99/nasaspaceapps/blob/main/inundaciones.jpg)
+
 ### Tormentas y ciclones tropicales
+
+![La población marginada es la que se ve más vulnerable a estos desastres naturales.](https://github.com/alexisoza99/nasaspaceapps/blob/main/tormentas.jpg)
 
 La humanidad ha tenido un gran avance tecnológico en las últimas décadas. Sin embargo, este desarrollo no ha ido de la mano con la naturaleza y necesitamos entender cómo nuestras acciones pueden tener un impacto serio en nuestro entorno. Por ejemplo, algunas de las acciones que diariamente suceden en el mundo están causando problemas graves en el ciclo del agua: 
 
 ### Contaminación del agua
+
+![Hemos descuidado nuestro principal recurso hídrico](https://github.com/alexisoza99/nasaspaceapps/blob/main/contaminacion.jpg)
 
 ### Derrames de petróleo
 
@@ -24,7 +32,7 @@ La humanidad ha tenido un gran avance tecnológico en las últimas décadas. Sin
 Es esencial recordar que nuestro universo es un sistema interconectado donde cada acción tiene consecuencias. Vivimos en un mundo de causa y efecto, donde nuestras decisiones y acciones impactan directamente en el equilibrio de la naturaleza y en la calidad de vida de las generaciones futuras. 
 
 Bienvenido a este sitio web dedicado a explorar el apasionante mundo del ciclo del agua y su intrincada relación con el cambio climático.
-![México](https://github.com/alexisoza99/nasaspaceapps/blob/main/MAPA_FINAL_MX_TEMP.gif)
+![Cambios de temperatura en México de acuerdo a cada mes del año.](https://github.com/alexisoza99/nasaspaceapps/blob/main/MAPA_FINAL_MX_TEMP.gif)
 
 ## ¿Qué encontrarás aquí?
 En este espacio educativo, nos sumergiremos en el fascinante recorrido del agua a lo largo de nuestro planeta y cómo este recurso es esencial para la vida en la Tierra. Descubriremos cómo el cambio climático está dejando su huella en este proceso vital y, lo más importante, cómo podemos comprenderlo y abordarlo.
