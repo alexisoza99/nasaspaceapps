@@ -1,20 +1,25 @@
-# El agua no es para siempre
+# Water is not forever
 Have you wondered why natural disasters have been occurring more frequently in recent years?
 
-### Sequias
+### Droughts
 
 ![El norte del país es el más afectado por las sequías del calentamiento global.](https://github.com/alexisoza99/nasaspaceapps/blob/main/sequia-2.jpg)
 
 Droughts have multiple interconnected causes including climate change, population growth, water overexploitation and deforestation. Climate change alters precipitation patterns and makes rainfall unpredictable. Increased population leads to greater consumption, while deforestation decreases the ability of ecosystems to retain water and regulate the hydrological cycle. One of the most worrying factors is the reduction and variation in precipitation. According to data from Conagua, in June 2023 at the national level it rained 61% less compared to the average for the same month from 1991 to 2020. This impacted the country's main dams, which today - in the middle of the rainy season - They are on average at 44.6% of their capacity.
 
-### Inundaciones
+### Floods
 
 ![Las inundaciones han aumentado en zonas costeras de México.](https://github.com/alexisoza99/nasaspaceapps/blob/main/inundaciones.jpg)
 
-### Tormentas y ciclones tropicales
+Floods are temporary overflows of water onto land that is normally dry.
+
+### Tropical storms and cyclones
 
 ![La población marginada es la que se ve más vulnerable a estos desastres naturales.](https://github.com/alexisoza99/nasaspaceapps/blob/main/tormentas.jpg)
 
+A tropical cyclone is a rotating system, organized by clouds and storms, that originates over tropical or subtropical waters and has a closed center of circulation in the lower levels of the atmosphere. Tropical cyclones rotate counterclockwise in the northern hemisphere.
+
+## Freshwater Cycle
 La humanidad ha tenido un gran avance tecnológico en las últimas décadas. Sin embargo, este desarrollo no ha ido de la mano con la naturaleza y necesitamos entender cómo nuestras acciones pueden tener un impacto serio en nuestro entorno. Por ejemplo, algunas de las acciones que diariamente suceden en el mundo interrumpen el correcto ciclo del agua: 
 
 
