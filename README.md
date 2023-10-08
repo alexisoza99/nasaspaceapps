@@ -20,31 +20,40 @@ Floods are temporary overflows of water onto land that is normally dry.
 A tropical cyclone is a rotating system, organized by clouds and storms, that originates over tropical or subtropical waters and has a closed center of circulation in the lower levels of the atmosphere. Tropical cyclones rotate counterclockwise in the northern hemisphere.
 
 ## Freshwater Cycle
-La humanidad ha tenido un gran avance tecnológico en las últimas décadas. Sin embargo, este desarrollo no ha ido de la mano con la naturaleza y necesitamos entender cómo nuestras acciones pueden tener un impacto serio en nuestro entorno. Por ejemplo, algunas de las acciones que diariamente suceden en el mundo interrumpen el correcto ciclo del agua: 
+Humanity has made significant technological advancements in recent decades. However, this development has not gone hand in hand with nature, and we need to understand how our actions can have a serious impact on our environment. For instance, some of the actions that occur daily in the world disrupt the natural water cycle:
 
 
-### Contaminación del agua
+### Water Pollution
 
 ![Hemos descuidado nuestro principal recurso hídrico](https://github.com/alexisoza99/nasaspaceapps/blob/main/contaminacion.jpg)
 
-### Derrames de petróleo
+Water pollution is the contamination of water bodies, such as rivers, lakes, and oceans, by harmful substances or pollutants, which can have detrimental effects on aquatic ecosystems and human health. It is a matter of concern because it not only threatens the delicate balance of aquatic life and ecosystems but also jeopardizes our access to safe and clean drinking water, which is essential for our well-being and survival.
 
-![El Golfo de México es el principal afectado por estos derrames.](https://github.com/alexisoza99/nasaspaceapps/blob/main/petroleo.jpg)
+### Oil Spill
 
-### Uso excesivo de agua 
+![Oil](https://github.com/alexisoza99/nasaspaceapps/blob/main/petroleo.jpg)
 
-![La industria y la agricultura son los principales sectores que más consumen agua.](https://github.com/alexisoza99/nasaspaceapps/blob/main/uso_excesivo.jpg)
+The Gulf of Mexico is the primary region most affected by these spills, experiencing the greatest impact and consequences as a result of these incidents
 
-### Deforestación 
-![La tala de arboles representa un desequilibrio en el ciclo hídrico del planeta.](https://github.com/alexisoza99/nasaspaceapps/blob/main/deforestacion.jpg)
+### Excessive water usage
+
+![Excessive water](https://github.com/alexisoza99/nasaspaceapps/blob/main/uso_excesivo.jpg)
+
+Industry and agriculture are the main sectors that consume the most water.
+
+### Deforestation
+![Deforestacion](https://github.com/alexisoza99/nasaspaceapps/blob/main/deforestacion.jpg)
+
+Deforestation represents an imbalance in the planet's freshwater cycle.
 
 ### Urbanización descontrolada
 
 ### Cambios en el uso de la tierra
 
-Es esencial recordar que nuestro universo es un sistema interconectado donde cada acción tiene consecuencias. Vivimos en un mundo de causa y efecto, donde nuestras decisiones y acciones impactan directamente en el equilibrio de la naturaleza y en la calidad de vida de las generaciones futuras. 
+It is essential to remember that our universe is an interconnected system where every action has consequences. We live in a world of cause and effect, where our decisions and actions directly impact the balance of nature and the quality of life for future generations.
 
-Bienvenido a este sitio web dedicado a explorar el apasionante mundo del ciclo del agua y su intrincada relación con el cambio climático.
+Welcome to this website dedicated to exploring the fascinating world of the water cycle and its intricate relationship with climate change.
+
 ![Cambios de temperatura en México de acuerdo a cada mes del año.](https://github.com/alexisoza99/nasaspaceapps/blob/main/MAPA_FINAL_MX_TEMP.gif)
 
 ## ¿Qué encontrarás aquí?
