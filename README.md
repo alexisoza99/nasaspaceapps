@@ -13,7 +13,8 @@
 
 ![La población marginada es la que se ve más vulnerable a estos desastres naturales.](https://github.com/alexisoza99/nasaspaceapps/blob/main/tormentas.jpg)
 
-La humanidad ha tenido un gran avance tecnológico en las últimas décadas. Sin embargo, este desarrollo no ha ido de la mano con la naturaleza y necesitamos entender cómo nuestras acciones pueden tener un impacto serio en nuestro entorno. Por ejemplo, algunas de las acciones que diariamente suceden en el mundo están causando problemas graves en el ciclo del agua: 
+La humanidad ha tenido un gran avance tecnológico en las últimas décadas. Sin embargo, este desarrollo no ha ido de la mano con la naturaleza y necesitamos entender cómo nuestras acciones pueden tener un impacto serio en nuestro entorno. Por ejemplo, algunas de las acciones que diariamente suceden en el mundo interrumpen el correcto ciclo del agua: 
+
 
 ### Contaminación del agua
 
